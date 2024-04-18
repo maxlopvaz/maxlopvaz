@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxlopvaz
 - 👀 I’m interested in Data Science and Data Engineering
-- 🌱 I’m currently working as a Data Scientist in Kigo 
+- 🌱 I’m currently working as a Data Scientist in Kigo/Parkimovil
 - 💞️ I’m looking to collaborate on development or analysis with Python as the principal tool
 - 📫 How to reach me: Email - mxlopez8@gmail.com || +52 2213500061
 
